@@ -1,7 +1,7 @@
 {
-  "name": "litemall-admin",
+  "name": "mall-admin",
   "version": "1.0.0",
-  "description": "litemall-admin basing on vue-element-admin 4.2.1",
+  "description": "mall-admin basing on vue-element-admin 4.2.1",
   "author": "linlinjava <linlinjava@163.com>",
   "license": "MIT",
   "scripts": {
@@ -37,10 +37,10 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/linlinjava/litemall.git"
+    "url": "git+https://github.com/BoyK/litemall.git"
   },
   "bugs": {
-    "url": "https://github.com/linlinjava/litemall/issues"
+    "url": "https://github.com/BoyK/litemall/issues"
   },
   "dependencies": {
     "@tinymce/tinymce-vue": "3.0.1",
